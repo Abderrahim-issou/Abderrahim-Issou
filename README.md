@@ -45,25 +45,6 @@ I'm a software engineering student with a **full-stack profile**, working on bot
 
 ---
 
-## 📌 Featured Projects
-
-### 🎓 Internship & Job Platform (MERN Stack)
-A full-stack platform connecting students with companies offering internships:
-- Clean and responsive frontend (React + Tailwind)
-- Scalable backend with TypeScript & MongoDB
-- Role-based access (User / Company / Admin)
-- Well-structured APIs for frontend consumption
-
-### 💬 Real-Time Chat & Notification System
-- One-to-one & group messaging
-- Socket.IO + MongoDB
-- Multi-model messaging (User / Company / Admin)
-- Seen/unseen messages & notification system
-
-*(More projects coming — always building 👷‍♂️)*
-
----
-
 ## 📖 What I'm Currently Learning
 
 - Artificial Intelligence & Data Science fundamentals
@@ -77,7 +58,7 @@ A full-stack platform connecting students with companies offering internships:
 ## 📫 Connect With Me
 
 - 💼 GitHub: https://github.com/Abderrahim-Issou
-- 📧 Email: *(add if you want)*
+- 📧 Email: *abderrahimissou685@gmail.com*
 - 💬 Open to collaboration, discussions, and learning opportunities
 
 ---
